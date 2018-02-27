@@ -9,18 +9,18 @@ public class RandomUtilsExample {
 
         Random random = new Random();
 
-        System.out.println("\nGenerating 10 random boolean:");
+        System.out.println("\nGenerating 10 random boolean: ");
         for (int i = 0; i < 10; i++){
             System.out.println("Random boolean: " + nextBoolean(random));
         }
 
-        System.out.println("\nGenerating 10 random integer:");
+        System.out.println("\nGenerating 10 random integer: ");
         for (int i = 0; i < 10; i++){
             System.out.println("Random int: " + nextInt(random,10));
 
         }
 
-        System.out.println("\nGenerating 10 random float:");
+        System.out.println("\nGenerating 10 random float: ");
         for (int i = 0; i < 10; i++){
             System.out.println("Random float: " + nextFloat(random));
         }
