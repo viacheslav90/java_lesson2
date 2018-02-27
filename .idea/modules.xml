@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache_utils/apache_utils.iml" filepath="$PROJECT_DIR$/apache_utils/apache_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http_client/http_client.iml" filepath="$PROJECT_DIR$/http_client/http_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inherit/inherit.iml" filepath="$PROJECT_DIR$/inherit/inherit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integer/integer.iml" filepath="$PROJECT_DIR$/integer/integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson2.iml" filepath="$PROJECT_DIR$/lesson2.iml" />
+    </modules>
+  </component>
+</project>

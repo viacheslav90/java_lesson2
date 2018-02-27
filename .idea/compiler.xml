@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apache_utils" />
+        <module name="http_client" />
+        <module name="http_client_lesson2" />
+        <module name="inherit" />
+        <module name="inheritance_lesson2" />
+        <module name="integer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache_utils" target="1.5" />
+      <module name="http_client" target="1.5" />
+      <module name="http_client_lesson2" target="1.5" />
+      <module name="inherit" target="1.5" />
+      <module name="inheritance" target="1.5" />
+      <module name="inheritance_lesson2" target="1.5" />
+      <module name="integer" target="1.5" />
+      <module name="lesson2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
